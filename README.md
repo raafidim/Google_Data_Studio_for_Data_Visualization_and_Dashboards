@@ -5,7 +5,7 @@
 ![0001 (1)](https://user-images.githubusercontent.com/71682511/117674537-f1559400-b1d5-11eb-839d-97264f3a6e0b.jpg)
 
 
-[2]
+[2] Perform time series data visualization on some of the existing data.
 ~ [https://datastudio.google.com/reporting/99c62097-5bc0-46ce-9fed-3f7e5e603457]
 
 ![0001](https://user-images.githubusercontent.com/71682511/117673896-6aa0b700-b1d5-11eb-8f9b-e2ae0d50a6e7.jpg)
